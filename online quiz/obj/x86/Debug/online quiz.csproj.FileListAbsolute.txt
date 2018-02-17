@@ -1,0 +1,27 @@
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\bin\Debug\online quiz.exe.config
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\bin\Debug\online quiz.exe
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\bin\Debug\online quiz.pdb
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.adminres.resources
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.Form1.resources
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.Properties.Resources.resources
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.signup.resources
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.staff_quiz.resources
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.student_quiz.resources
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\online quiz.exe
+C:\Users\admin3\Documents\Visual Studio 2010\Projects\online quiz\online quiz\obj\x86\Debug\online quiz.pdb
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\bin\Debug\online quiz.exe.config
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\bin\Debug\online quiz.exe
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\bin\Debug\online quiz.pdb
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\obj\x86\Debug\online quiz.csprojResolveAssemblyReference.cache
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.adminres.resources
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.Form1.resources
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.Properties.Resources.resources
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.signup.resources
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.staff_quiz.resources
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\obj\x86\Debug\online_quiz.student_quiz.resources
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\obj\x86\Debug\online quiz.csproj.GenerateResource.Cache
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\obj\x86\Debug\online quiz.exe
+C:\Users\Ykkiv-Hari\Documents\Visual Studio 2012\Projects\online quiz\online quiz\obj\x86\Debug\online quiz.pdb
